@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: Roboto-Regular;
-    src: url("../Roboto/Roboto-Regular.ttf");
+    src: url("./Roboto/Roboto-Regular.ttf");
 }
 
 body {
@@ -233,7 +233,7 @@ body {
     /* border: 1px solid black; */
     margin-top: 50px;
     margin-left: 20px;
-    background-image: url("../image/909.png");
+    background-image: url("./image/909.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -395,7 +395,7 @@ body {
 .project-pic-1 {
     width: 100%;
     height: 200px;
-    background-image: url("../image/project1.PNG");
+    background-image: url("./image/project1.PNG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -404,7 +404,7 @@ body {
 .project-pic-2 {
     width: 100%;
     height: 200px;
-    background-image: url("../image/project2.PNG");
+    background-image: url("./image/project2.PNG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -413,7 +413,7 @@ body {
 .project-pic-3 {
     width: 100%;
     height: 200px;
-    background-image: url("../image/project3.PNG");
+    background-image: url("./image/project3.PNG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -422,7 +422,7 @@ body {
 .project-pic-4 {
     width: 100%;
     height: 200px;
-    background-image: url("../image/project4.PNG");
+    background-image: url("./image/project4.PNG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -431,7 +431,7 @@ body {
 .project-pic-5 {
     width: 100%;
     height: 200px;
-    background-image: url("../image/project5.PNG");
+    background-image: url("./image/project5.PNG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -440,7 +440,7 @@ body {
 .project-pic-6 {
     width: 100%;
     height: 200px;
-    background-image: url("../image/project6.PNG");
+    background-image: url("./image/project6.PNG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
